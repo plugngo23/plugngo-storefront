@@ -41,6 +41,60 @@
       </g:shipping>
     </item>
     <item>
+      <g:id>PN-AW-S6-44-GPS-SG-R</g:id>
+      <title>Apple Watch Series 6 GPS 44mm - Space Gray 32GB</title>
+      <description>Always-On Retina display, blood oxygen sensor, GPS, 32GB storage, and 50m water resistance.</description>
+      <link>https://plugngohub.com/?product=apple-watch-series-6-gps-44mm-space-gray-refurbished</link>
+      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/google-merchant/pn-aw-s6-44-gps-sg-r-1000.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>599.00 AED</g:price>
+      <g:condition>refurbished</g:condition>
+      <g:brand>Apple</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Wearables</g:product_type>
+      <g:shipping>
+        <g:country>AE</g:country>
+        <g:service>Standard delivery</g:service>
+        <g:price>0.00 AED</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>PN-AW-S5-44-GPS-SG-R</g:id>
+      <title>Apple Watch Series 5 GPS 44mm - Space Gray 32GB</title>
+      <description>Always-On Retina display, GPS, heart-rate monitoring, 32GB storage, and 50m water resistance.</description>
+      <link>https://plugngohub.com/?product=apple-watch-series-5-gps-44mm-space-gray-refurbished</link>
+      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/google-merchant/pn-aw-s5-44-gps-sg-r-1000.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.00 AED</g:price>
+      <g:condition>refurbished</g:condition>
+      <g:brand>Apple</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Wearables</g:product_type>
+      <g:shipping>
+        <g:country>AE</g:country>
+        <g:service>Standard delivery</g:service>
+        <g:price>0.00 AED</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>AV-2JCK-BH0I</g:id>
+      <title>Lenovo ThinkPad X1 Carbon High Performance Business Laptop 8GB RAM 256GB - Black</title>
+      <description>Lenovo (Refurbished) ThinkPad X1 Carbon High Performance Business Laptop | intel Core i5-7th Generation CPU | 8GB RAM | 256GB SSD | 14.1 inch Display | Windows 11| - Black</description>
+      <link>https://plugngohub.com/?product=amazon-b0g35ft41w-a36bd64145</link>
+      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/google-merchant/av-2jck-bh0i-1000.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>900.00 AED</g:price>
+      <g:condition>refurbished</g:condition>
+      <g:brand>Lenovo</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Laptops</g:product_type>
+      <g:shipping>
+        <g:country>AE</g:country>
+        <g:service>Standard delivery</g:service>
+        <g:price>0.00 AED</g:price>
+      </g:shipping>
+    </item>
+    <item>
       <g:id>cable03dfvg</g:id>
       <title>Huawei P30 Pro 128GB 8GB Ram 4G Lte - Aurora Blue</title>
       <description>HUAWEI (Refurbished) P30 Pro 128GB 8GB Ram Factory Unlocked 4G Lte Smartphone- Aurora Blue</description>
@@ -6215,24 +6269,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id>AV-2JCK-BH0I</g:id>
-      <title>Lenovo ThinkPad X1 Carbon High Performance Business Laptop 8GB RAM 256GB - Black</title>
-      <description>Lenovo (Refurbished) ThinkPad X1 Carbon High Performance Business Laptop | intel Core i5-7th Generation CPU | 8GB RAM | 256GB SSD | 14.1 inch Display | Windows 11| - Black</description>
-      <link>https://plugngohub.com/?product=amazon-b0g35ft41w-a36bd64145</link>
-      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/09e7a88e66247cdaf71a11ce1ca0.jpg</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>900.00 AED</g:price>
-      <g:condition>refurbished</g:condition>
-      <g:brand>Lenovo</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Laptops</g:product_type>
-      <g:shipping>
-        <g:country>AE</g:country>
-        <g:service>Standard delivery</g:service>
-        <g:price>0.00 AED</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id>78-EDCF-Q6K5</g:id>
       <title>Lenovo Thinkpad Lenovo T14 Gen2, Ci5-1135G7, 16GB DDR4 RAM, 256GB M.2 Nvme Ssd - Black</title>
       <description>Thinkpad Lenovo T14 Gen2, Ci5-1135G7, 16GB DDR4 RAM, 256GB M.2 Nvme Ssd, 14&quot; Fhd, Intel Hd Graphics Finger Print, Nano Sim Card Slot, 720P Cam, Y-Tpm, Black (Renewed)</description>
@@ -6928,42 +6964,6 @@
       <g:brand>Apple</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
       <g:product_type>Tablets</g:product_type>
-      <g:shipping>
-        <g:country>AE</g:country>
-        <g:service>Standard delivery</g:service>
-        <g:price>0.00 AED</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>PN-AW-S5-44-GPS-SG-R</g:id>
-      <title>Apple Watch Series 5 GPS 44mm - Space Gray 32GB</title>
-      <description>Always-On Retina display, GPS, heart-rate monitoring, 32GB storage, and 50m water resistance.</description>
-      <link>https://plugngohub.com/?product=apple-watch-series-5-gps-44mm-space-gray-refurbished</link>
-      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/apple-legacy/pn-aw-s5-44-gps-sg-r-fb64293abb1b65b9007a.png</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>499.00 AED</g:price>
-      <g:condition>refurbished</g:condition>
-      <g:brand>Apple</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Wearables</g:product_type>
-      <g:shipping>
-        <g:country>AE</g:country>
-        <g:service>Standard delivery</g:service>
-        <g:price>0.00 AED</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id>PN-AW-S6-44-GPS-SG-R</g:id>
-      <title>Apple Watch Series 6 GPS 44mm - Space Gray 32GB</title>
-      <description>Always-On Retina display, blood oxygen sensor, GPS, 32GB storage, and 50m water resistance.</description>
-      <link>https://plugngohub.com/?product=apple-watch-series-6-gps-44mm-space-gray-refurbished</link>
-      <g:image_link>https://cemvafjxyrxocnshjcsi.supabase.co/storage/v1/object/public/product-images/catalog/apple-legacy/pn-aw-s6-44-gps-sg-r-773cf57388ab59973cee.png</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>599.00 AED</g:price>
-      <g:condition>refurbished</g:condition>
-      <g:brand>Apple</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Wearables</g:product_type>
       <g:shipping>
         <g:country>AE</g:country>
         <g:service>Standard delivery</g:service>
