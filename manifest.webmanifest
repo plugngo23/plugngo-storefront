@@ -1,0 +1,21 @@
+{
+  "name": "PlugNGo Electronics UAE",
+  "short_name": "PlugNGo",
+  "description": "Shop professionally checked phones, laptops, tablets and watches with UAE delivery.",
+  "start_url": "/#store",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#061d37",
+  "theme_color": "#061d37",
+  "lang": "en-AE",
+  "dir": "auto",
+  "categories": ["shopping", "business"],
+  "icons": [
+    { "src": "/plugngo-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/plugngo-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Shop devices", "short_name": "Shop", "url": "/#products" },
+    { "name": "Track a request", "short_name": "Track", "url": "/#store" }
+  ]
+}
