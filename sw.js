@@ -1,5 +1,5 @@
-const CACHE = "plugngo-store-v42-20261009-tabby-cart-binding";
-const SHELL = ["/", "/index.html", "/manifest.webmanifest", "/plugngo-icon-192.png", "/plugngo-icon-512.png"];
+const CACHE = "plugngo-shell-v48-20261017-purchase-order-photo-match";
+const SHELL = ["/", "/index.html", "/manifest.webmanifest", "/manifest-dashboard.webmanifest", "/plugngo-icon-192.png", "/plugngo-icon-512.png"];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));
