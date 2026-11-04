@@ -1,4 +1,4 @@
-const CACHE = "plugngo-shell-v71-20261101-oneplus-accessories";
+const CACHE = "plugngo-shell-v72-20261104-tabby-qa-fixes";
 const SHELL = ["/", "/index.html", "/manifest.webmanifest", "/manifest-dashboard.webmanifest", "/plugngo-icon-192.png", "/plugngo-icon-512.png"];
 
 self.addEventListener("install", (event) => {
