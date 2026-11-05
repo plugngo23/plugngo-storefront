@@ -1,4 +1,4 @@
-const CACHE = "plugngo-shell-v72-20261104-tabby-qa-fixes";
+const CACHE = "plugngo-shell-v73-20261105-tabby-my-orders";
 const SHELL = ["/", "/index.html", "/manifest.webmanifest", "/manifest-dashboard.webmanifest", "/plugngo-icon-192.png", "/plugngo-icon-512.png"];
 
 self.addEventListener("install", (event) => {
